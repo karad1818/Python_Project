@@ -1,3 +1,0 @@
-This link contains all the practical and concept of digital image processing in openCV.
-
-link : https://colab.research.google.com/drive/1NSkQM2kK8ZFQWa6CA_u5euQUghpZV1MQ?usp=sharing
